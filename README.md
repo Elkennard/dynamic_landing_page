@@ -1,13 +1,13 @@
 # DYNAMIC LANDING PAGE
 
-A Basic landing page. I Enjoyed this simple programme and it helped me understand the basic fundamentals of programming.
+A Basic landing page. I enjoyed this simple programme and it helped me understand the basic fundamentals of programming.
 
 [Live Site](https://landing-page-ek.netlify.app/)
 
 ## Features
  - Saves the name and focus of the day for the user
  - Displays the date and time
- - Backaground image and greeting changes depending on time of day (morning, afternoon and evening).
+ - Background image and greeting changes depending on time of day (morning, afternoon and evening).
 
 ## Installation
 ```bash
